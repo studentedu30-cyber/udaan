@@ -41,7 +41,7 @@ body.dark-theme {
 .navbar-brand {
   font-size: 2.5rem;
   /* background: linear-gradient(135deg, var(--primary-color), var(--secondary-color)); */
-  background: linear-gradient(135deg, #10B981,#F59E0B);
+  background: linear-gradient(135deg, #15DCF0,#13098A,#47D929);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   background-clip: text;
